@@ -21,9 +21,3 @@ This Library Management Project is a GUI-based application developed in Visual S
 - XML
 - .NET Framework
 - Visual Studio
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/library-management-project.git
