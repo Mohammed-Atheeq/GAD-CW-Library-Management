@@ -1,0 +1,139 @@
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\Library Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\LoginWindow.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\MainWindow.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\SignupWindow.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\App.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\AdminMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\LibrarianMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\MemberMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\BuyBookMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\SelectMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\BookLendingMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\BookPending.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\BookRegisterMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\BookReturningMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\BorrowedBooksMenu.g.cs
+C:\Users\NMC\Pictures\Saved Pictures\Library Management System GAD\Library Management\obj\Debug\HistoryMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BookLendingMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BookPending.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BookRegisterMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BookReturningMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BorrowedBooksMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BuyBookMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\HistoryMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\LibrarianMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\LoginWindow.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\MemberMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\SignupWindow.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+C:\Users\admin\Desktop\Project\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\admin\Desktop\Project\Library Management\bin\Debug\Library Management.exe
+C:\Users\admin\Desktop\Project\Library Management\bin\Debug\Library Management.pdb
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BookLendingMenu.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BookPending.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BookRegisterMenu.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BookReturningMenu.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BorrowedBooksMenu.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\BuyBookMenu.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\HistoryMenu.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\LibrarianMenu.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\LoginWindow.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\MemberMenu.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\SignupWindow.baml
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management.g.resources
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management.exe
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\Library Management.pdb
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\RemoveMemberMenu.g.cs
+C:\Users\admin\Desktop\Project\Library Management\obj\Debug\RemoveMemberMenu.baml
+C:\Users\admin\Desktop\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\admin\Desktop\Library Management\bin\Debug\Library Management.exe
+C:\Users\admin\Desktop\Library Management\bin\Debug\Library Management.pdb
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Library Management\obj\Debug\BookLendingMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\BookPending.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\BookRegisterMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\BookReturningMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\BorrowedBooksMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\BuyBookMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\HistoryMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\LibrarianMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\LoginWindow.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\MemberMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\RemoveMemberMenu.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\SignupWindow.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management_MarkupCompile.cache
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management_MarkupCompile.lref
+C:\Users\admin\Desktop\Library Management\obj\Debug\BookLendingMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\BookPending.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\BookRegisterMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\BookReturningMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\BorrowedBooksMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\BuyBookMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\HistoryMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\LibrarianMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\LoginWindow.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\MemberMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\RemoveMemberMenu.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\SignupWindow.baml
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management.g.resources
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management.exe
+C:\Users\admin\Desktop\Library Management\obj\Debug\Library Management.pdb
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\bin\Debug\Library Management.exe.config
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\bin\Debug\Library Management.exe
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\bin\Debug\Library Management.pdb
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BookLendingMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BookPending.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BookRegisterMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BookReturningMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BorrowedBooksMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BuyBookMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\HistoryMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\LibrarianMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\LoginWindow.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\MemberMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\RemoveMemberMenu.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\SignupWindow.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management_MarkupCompile.cache
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management_MarkupCompile.lref
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BookLendingMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BookPending.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BookRegisterMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BookReturningMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BorrowedBooksMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\BuyBookMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\HistoryMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\LibrarianMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\LoginWindow.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\MemberMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\RemoveMemberMenu.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\SignupWindow.baml
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management.g.resources
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management.exe
+C:\Users\admin\Desktop\DSE\Sem 2\GUI Application Development\GAD Project\Library Management Final\obj\Debug\Library Management.pdb

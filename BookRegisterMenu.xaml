@@ -1,0 +1,128 @@
+﻿<Window x:Class="Library_Management.BookRegisterMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_Management"
+        mc:Ignorable="d"
+        Title="BookRegisterMenu" Height="450" Width="800" WindowStyle="None" RenderTransformOrigin="0.5,0.5">
+    <Window.Background>
+        <ImageBrush ImageSource="/hh-1.jpg">
+            <ImageBrush.RelativeTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ImageBrush.RelativeTransform>
+        </ImageBrush>
+    </Window.Background>
+    <Grid Margin="0,0,0,0">
+        <Button x:Name="btn_save" Content="Save" HorizontalAlignment="Left" Height="45" Margin="171,352,0,0" VerticalAlignment="Top" Width="160" FontWeight="Bold" FontSize="20" Click="btn_save_Click" Background="#FF168079" BorderBrush="{x:Null}" Foreground="White">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <Border x:Name="Border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="1"
+                                CornerRadius="14">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <!-- Trigger to change the background color on MouseOver -->
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="#FF08AD8B"/>
+                                        <!-- Change to the desired color on MouseOver -->
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="btn_clear" Content="Clear" HorizontalAlignment="Left" Height="45" Margin="421,352,0,0" VerticalAlignment="Top" Width="160" FontWeight="Bold" FontSize="20" Click="btn_clear_Click" Background="#FF168079" BorderBrush="{x:Null}" Foreground="White">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <Border x:Name="Border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="1"
+                                CornerRadius="14">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <!-- Trigger to change the background color on MouseOver -->
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="#FF08AD8B"/>
+                                        <!-- Change to the desired color on MouseOver -->
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+        <Label x:Name="lbl_bookid" Content="Book ID" HorizontalAlignment="Left" Margin="40,74,0,0" VerticalAlignment="Top" Width="183" FontWeight="Bold" FontSize="20" Foreground="White"/>
+        <Label x:Name="lbl_bookname" Content="Book Name" HorizontalAlignment="Left" Margin="40,144,0,0" VerticalAlignment="Top" Width="183" FontWeight="Bold" FontSize="20" Foreground="White"/>
+        <Label x:Name="lbl_author" Content="Author" HorizontalAlignment="Left" Margin="40,215,0,0" VerticalAlignment="Top" Width="183" FontWeight="Bold" FontSize="20" Foreground="White"/>
+
+        <TextBox x:Name="txt_bookid" HorizontalAlignment="Left" Height="40" Margin="300,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="440" FontWeight="Bold" FontSize="16" IsEnabled="False"/>
+        <TextBox x:Name="txt_bookname" HorizontalAlignment="Left" Height="40" Margin="300,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="440" FontWeight="Bold" FontSize="16"/>
+        <TextBox x:Name="txt_author" HorizontalAlignment="Left" Height="40" Margin="300,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="440" FontWeight="Bold" FontSize="16" TextChanged="txt_author_TextChanged"/>
+
+        <Button x:Name="btn_back" Content="←" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="22" Width="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" FontWeight="Bold" FontSize="20" FontFamily="Tw Cen MT" Margin="4,0,0,423" RenderTransformOrigin="0.5,0.5" Click="btn_back_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+        <Button x:Name="btn_close" Content="✖" HorizontalAlignment="Left" Margin="766,6,0,0" VerticalAlignment="Top" Height="20" Width="20" BorderBrush="{x:Null}" RenderTransformOrigin="27.4,-16.85" Background="{x:Null}" Foreground="#FFF5ECEC">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Red"/>
+                            <!-- Change the background color when mouse is moved over -->
+                            <Setter Property="Foreground" Value="Black"/>
+                            <!-- Change the foreground color when mouse is moved over -->
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="btn_minimize" Content="―" HorizontalAlignment="Left" Margin="737,7,0,0" VerticalAlignment="Top" BorderBrush="{x:Null}" Height="20" Width="20" Background="{x:Null}" Foreground="#FFF5ECEC" FontWeight="Bold"/>
+        <Label x:Name="lbl_bname" Content="" HorizontalAlignment="Left" Height="26" Margin="300,186,0,0" VerticalAlignment="Top" Width="440" Foreground="#FFE83232"/>
+        <Label x:Name="lbl_author2" Content="" HorizontalAlignment="Left" Height="26" Margin="300,255,0,0" VerticalAlignment="Top" Width="440" Foreground="#FFE23939"/>
+
+    </Grid>
+</Window>

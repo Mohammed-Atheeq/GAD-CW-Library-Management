@@ -1,0 +1,243 @@
+﻿<Window x:Class="Library_Management.LibrarianMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_Management"
+        mc:Ignorable="d"
+        Title="Library Management System" Height="450" Width="800" WindowStyle="None" >
+    <Window.Background>
+        <ImageBrush ImageSource="/ELIBpaygment.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Button x:Name="btn_returning"
+        Content="Book Returning"
+        HorizontalAlignment="Left"
+        Margin="500,124,0,0"
+        VerticalAlignment="Top"
+        Height="58"
+        Width="265"
+        FontWeight="Bold"
+        FontSize="22"
+        BorderBrush="{x:Null}"
+        Foreground="White"
+        Background="#FF1D6B6D" Click="btn_returning_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <Border x:Name="Border"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="1"
+                                    CornerRadius="25">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <!-- Trigger to change the background color on MouseOver -->
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="#FF08AD8B"/>
+                                        <!-- Change to the desired color on MouseOver -->
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="btn_pending"
+        Content="Book Pending"
+        HorizontalAlignment="Left"
+        Margin="500,204,0,0"
+        VerticalAlignment="Top"
+        Height="58"
+        Width="265"
+        FontWeight="Bold"
+        FontSize="22"
+        BorderBrush="{x:Null}"
+        Foreground="White"
+        Background="#FF1D6B6D" Click="btn_pending_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <Border x:Name="Border"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="1"
+                                    CornerRadius="25">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <!-- Trigger to change the background color on MouseOver -->
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="#FF08AD8B"/>
+                                        <!-- Change to the desired color on MouseOver -->
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+        <Button x:Name="btn_lending"
+        Content="Book Lending"
+        HorizontalAlignment="Left"
+        Margin="500,44,0,0"
+        VerticalAlignment="Top"
+        Height="58"
+        Width="265"
+        FontWeight="Bold"
+        FontSize="22"
+        BorderBrush="{x:Null}"
+        Foreground="White"
+        Background="#FF1D6B6D" Click="btn_lending_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <Border x:Name="Border"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="1"
+                                    CornerRadius="25">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <!-- Trigger to change the background color on MouseOver -->
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="#FF08AD8B"/>
+                                        <!-- Change to the desired color on MouseOver -->
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="btn_registor"
+        Content="Book Register"
+        HorizontalAlignment="Left"
+        Margin="500,284,0,0"
+        VerticalAlignment="Top"
+        Height="58"
+        Width="265"
+        FontWeight="Bold"
+        FontSize="22"
+        BorderBrush="{x:Null}"
+        Foreground="White"
+        Background="#FF1D6B6D" Click="btn_registor_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <Border x:Name="Border"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="1"
+                                    CornerRadius="25">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <!-- Trigger to change the background color on MouseOver -->
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="#FF08AD8B"/>
+                                        <!-- Change to the desired color on MouseOver -->
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+        <Button x:Name="btn_back" Content="←" HorizontalAlignment="Left" VerticalAlignment="Top" Height="22" Width="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" FontWeight="Bold" FontSize="20" FontFamily="Tw Cen MT" Margin="2,1,0,0" RenderTransformOrigin="0.5,0.5" Click="btn_back_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+        <Button x:Name="btn_close" Content="✖" Margin="760,4,20,0" VerticalAlignment="Top" Height="20" BorderBrush="{x:Null}" RenderTransformOrigin="27.4,-16.85" Background="{x:Null}" Foreground="#FFF5ECEC" Click="btn_close_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Red"/>
+                            <!-- Change the background color when mouse is moved over -->
+                            <Setter Property="Foreground" Value="Black"/>
+                            <!-- Change the foreground color when mouse is moved over -->
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="btn_minimize" Content="―" HorizontalAlignment="Left" Margin="733,5,0,0" VerticalAlignment="Top" BorderBrush="{x:Null}" Height="20" Width="20" Background="{x:Null}" Foreground="#FFF5ECEC" FontWeight="Bold"/>
+
+        <Button x:Name="btn_deletemember" Content="Delete Member" HorizontalAlignment="Left" Height="58" Margin="500,364,0,0" VerticalAlignment="Top" Width="265" FontSize="20" FontWeight="Bold" Click="btn_deletemember_Click" Background="#FF1D6B6D" BorderBrush="{x:Null}" Foreground="#FFFFFDFD">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid>
+                                    <Border x:Name="Border"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="1"
+                                    CornerRadius="25">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <!-- Trigger to change the background color on MouseOver -->
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="#FF08AD8B"/>
+                                        <!-- Change to the desired color on MouseOver -->
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+    </Grid>
+</Window>
